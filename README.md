@@ -25,7 +25,12 @@ Here the validation set was the same as the test set
 The model gave an accuracy of around 74% in the test set, 20 epochs was taken with anything more the more was seen to overfitting 
 The graphs below give the loss and accuracy in the training and validation set 
 
-  
+
+![alt text](https://github.com/dhruv-shindhe/Skin-Lesion-Classifier-HAM10000/blob/master/loss.png)
+
+![alt text](https://github.com/dhruv-shindhe/Skin-Lesion-Classifier-HAM10000/blob/master/accuracy.png) 
+
+
 Improvements :
 1.Different validation and test set
 2.Data augmentation
